@@ -20,3 +20,6 @@ Repo para ayudar a la gente a la que le falta algún pull request suelto a conse
 
 Compartid para conseguir ésto entre todos, espero que ayude :)
 
+### License
+
+Mira el [arhcivo de licencia!](https://github.com/lulivi/HelpinginHacktoberfest/blob/master/LICENSE)
