@@ -1,2 +1,2 @@
 # HelpinginHacktoberfest
-Repo para ayudar a la gente que no ha trabajado mucho con git a conseguir su camiseta de Hacktoberfest.
+Repo para ayudar a la gente a la que le falta algún pull request suelto a conseguir su camiseta de Hacktoberfest.
